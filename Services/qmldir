@@ -1,0 +1,12 @@
+module qs.Services
+
+singleton Audio 1.0 Audio.qml
+singleton Battery 1.0 Battery.qml
+singleton Bluetooth 1.0 Bluetooth.qml
+singleton Brightness 1.0 Brightness.qml
+singleton KeyboardLayout 1.0 KeyboardLayout.qml
+singleton Mic 1.0 Mic.qml
+singleton Network 1.0 Network.qml
+singleton Niri 1.0 Niri.qml
+singleton Power 1.0 Power.qml
+singleton Weather 1.0 Weather.qml

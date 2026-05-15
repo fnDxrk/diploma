@@ -1,0 +1,16 @@
+module qs.Widgets
+
+BarIcon 1.0 BarIcon.qml
+BarPopup 1.0 BarPopup.qml
+singleton BarPopupController 1.0 BarPopupController.qml
+Clock 1.0 Clock.qml
+Dropdown 1.0 Dropdown.qml
+IconButton 1.0 IconButton.qml
+ListItem 1.0 ListItem.qml
+singleton Placement 1.0 Placement.qml
+PopupSurface 1.0 PopupSurface.qml
+Slider 1.0 Slider.qml
+Toggle 1.0 Toggle.qml
+Tooltip 1.0 Tooltip.qml
+TrayMenu 1.0 TrayMenu.qml
+TrayMenuItem 1.0 TrayMenuItem.qml

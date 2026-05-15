@@ -1,0 +1,7 @@
+module qs.Modules.Bar.Popups
+
+BrightnessPopup 1.0 BrightnessPopup.qml
+AudioPopup 1.0 AudioPopup.qml
+BatteryPopup 1.0 BatteryPopup.qml
+BluetoothPopup 1.0 BluetoothPopup.qml
+TrayPopup 1.0 TrayPopup.qml

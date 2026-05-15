@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "weather": {
+      "city": "Novosibirsk",
+      "units": "metric"
+    }
+}

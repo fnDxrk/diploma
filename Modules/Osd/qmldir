@@ -1,0 +1,7 @@
+module qs.Modules.Osd
+
+singleton OsdController 1.0 OsdController.qml
+OsdPanel 1.0 OsdPanel.qml
+VolumeOSD 1.0 VolumeOSD.qml
+BrightnessOSD 1.0 BrightnessOSD.qml
+MicOSD 1.0 MicOSD.qml
